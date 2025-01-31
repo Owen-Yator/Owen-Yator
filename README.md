@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Owen-Yator
-- 👀 I’m interested in Android Development with Kotlin
+- 👀 I’m passionate about mobile apps development
 - 🌱 I’m currently learning at Kabarak University
 - 🤝 I’m looking to collaborate on Android Projects
 - 📫 How to reach me yatorowen@gmail.com
