@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Owen-Yator
+- 👋 Hi, I’m @Owen-Yator,
 - 👀 I’m passionate about mobile apps development,
 - AI Inthusiast as well.
 - 🌱 Currently learning at Kabarak University.
