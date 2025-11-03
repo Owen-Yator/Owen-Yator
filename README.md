@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Owen-Yator,
-- 👀 I’m passionate about mobile apps development,
+- 👀 I’m passionate about mobile apps development
 - AI Inthusiast as well
 - 🌱 Currently learning at Kabarak University.
 - 🤝 I’m looking to collaborate on Android Projects
