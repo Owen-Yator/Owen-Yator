@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Owen-Yator
 - 👀 I’m passionate about mobile apps development
 - AI Inthusiast as well
-- 🌱 Currently learning at Kabarak University
 - 🤝 I’m looking to collaborate on Android Projects
-- 📫 How to reach me yatorowen@gmail.com
-- 😄 Pronouns: He/Him.
+- 📫 Reach me: yatorowen@gmail.com
+- 😄 He/Him.
 
 
 <!---
